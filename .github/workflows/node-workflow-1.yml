@@ -25,7 +25,6 @@ jobs:
            registry-1.docker.io:443
            production.cloudflare.docker.com:443
            auth.docker.io:443
-           #added
            www.stepsecurity.io:443
       
       #- name: remove sudo
